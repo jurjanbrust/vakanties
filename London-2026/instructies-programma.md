@@ -60,3 +60,8 @@ Deze regels gelden voor alle toekomstige aanpassingen aan `programma.md` (en ver
 ## 12. Losse wandelroutes (Komoot)
 * Voeg onderaan het bestand een tabel toe met Komoot-zoeklinks (`https://www.komoot.com/discover?query=<zoekterm>`) per dag/gebied, verdeeld in kort (~2-3 km), middel (~5-6 km) en lang (~8-10 km), als optionele extra wandeling naast het hoofdprogramma.
 
+## 13. Publiceren naar GitHub
+* Werkkopie: `/home/jurjan/Documents/London/programma.md` en `instructies-programma.md`. Gepubliceerde repo: `/home/jurjan/Documents/vakanties-repo` (submap `London-2026/`, remote `https://github.com/jurjanbrust/vakanties.git`).
+* Na elke wijziging aan `programma.md` of `instructies-programma.md`: kopieer naar `London-2026/README.md` resp. `London-2026/instructies-programma.md` in de repo, herbouw de mobiele TOC/ankers (`<a id="...">` + "Terug naar boven"-links) als er secties zijn toegevoegd/verwijderd, en commit + push meteen (geen wijzigingen laten liggen).
+* Gebruik een korte, beschrijvende commitmessage per wijziging en sluit af met de vereiste `Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>`-trailer.
+
