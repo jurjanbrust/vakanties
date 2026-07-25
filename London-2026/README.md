@@ -18,7 +18,7 @@
 * [🎟️ Ticketgids & Kosten](#tickets)
 * [💡 Extra Tips](#tips)
 * [🔄 Alternatieven per dag](#alternatieven)
-* [🥾 Wandelroutes (Komoot)](#wandelroutes)
+* [🥾 Wandellussen (Google Maps)](#wandelroutes)
 
 ---
 
@@ -430,17 +430,17 @@ Mocht een onderdeel tegenvallen (druk, dicht, geen zin) — dit zijn per dag goe
 ---
 
 <a id="wandelroutes"></a>
-### 🥾 Wandelroutes ter plekke (Komoot)
+### 🥾 Losse wandellussen per gebied (Google Maps)
 
-Losse, optionele wandelingen als er extra tijd of zin in is — gesorteerd van kort naar lang. Klik voor een route-overzicht op [Komoot](https://www.komoot.com) in de buurt van de bestemming (Komoot toont dan meerdere community-routes met exacte afstand/hoogtemeters, je kiest zelf wat past).
+Optionele extra wandelingen als er tijd/zin voor is — een rondje vanaf en naar hetzelfde punt, zodat je makkelijk terug bent bij je startpunt. Zelfde linkformaat als de dagroutes (opent direct als wandelroute).
 
-| Gebied (welke dag) | Korte route (~2-3 km) | Middellange route (~5-6 km) | Lange route (~8-10 km) |
-| --- | --- | --- | --- |
-| Covent Garden/Soho (vr 31/7) | [Zoek routes](https://www.komoot.com/discover?query=Covent%20Garden%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Soho%20Bloomsbury%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Central%20London%20walking%20tour) |
-| South Bank/Westminster (za 1/8) | [Zoek routes](https://www.komoot.com/discover?query=South%20Bank%20Thames%20walk%20London) | [Zoek routes](https://www.komoot.com/discover?query=Thames%20Path%20Westminster%20London) | [Zoek routes](https://www.komoot.com/discover?query=Thames%20Path%20London%20walk) |
-| Tower/City (zo 2/8) | [Zoek routes](https://www.komoot.com/discover?query=Tower%20of%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Thames%20Path%20Tower%20Bridge%20walk) | [Zoek routes](https://www.komoot.com/discover?query=City%20of%20London%20walking%20tour) |
-| Bloomsbury (ma 3/8) | [Zoek routes](https://www.komoot.com/discover?query=Bloomsbury%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Regents%20Canal%20Islington%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Regents%20Canal%20walk%20London) |
-| Mayfair/Hyde Park (di 4/8) | [Zoek routes](https://www.komoot.com/discover?query=Mayfair%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Hyde%20Park%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Hyde%20Park%20Kensington%20Gardens%20walk) |
-| Regent's Park/Camden (wo 5/8) | [Zoek routes](https://www.komoot.com/discover?query=Regents%20Park%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Primrose%20Hill%20Regents%20Canal%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Regents%20Canal%20Camden%20walk) |
+| Gebied (welke dag) | Korte lus | Lange lus |
+| --- | --- | --- |
+| Covent Garden/Soho (vr 31/7) | 🚶 ~2,3 km · 28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking) | 🚶 ~5,4 km · 68 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CSouth%20Bank%20Royal%20Festival%20Hall%7CWestminster%20Bridge%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking) |
+| South Bank/Westminster (za 1/8) | 🚶 ~2,2 km · 28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall&travelmode=walking) | 🚶 ~6,5 km · 81 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London&travelmode=walking) |
+| Tower/City (zo 2/8) | 🚶 ~3,2 km · 40 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London&travelmode=walking) | 🚶 ~5,6 km · 70 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London%7CLeadenhall%20Market%20London&travelmode=walking) |
+| Bloomsbury (ma 3/8) | 🚶 ~1,4 km · 17 min · [Route](https://www.google.com/maps/dir/?api=1&origin=British%20Museum%20London&destination=British%20Museum%20London&waypoints=Russell%20Square%20London%7CBloomsbury%20Square%20London&travelmode=walking) | 🚶 ~2,8 km · 35 min · [Route](https://www.google.com/maps/dir/?api=1&origin=British%20Museum%20London&destination=British%20Museum%20London&waypoints=Russell%20Square%20London%7CLincoln%27s%20Inn%20Fields%20London%7CBloomsbury%20Square%20London&travelmode=walking) |
+| Mayfair/Marylebone (di 4/8) | 🚶 ~1,9 km · 24 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Wallace%20Collection%20London&destination=Wallace%20Collection%20London&waypoints=Marylebone%20High%20Street%20London%7CBaker%20Street%20Station%20London&travelmode=walking) | 🚶 ~3,5 km · 44 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Wallace%20Collection%20London&destination=Wallace%20Collection%20London&waypoints=Marylebone%20High%20Street%20London%7CBaker%20Street%20Station%20London%7CRegent%27s%20Park%20Boating%20Lake%20London&travelmode=walking) |
+| Regent's Park/Camden (wo 5/8) | 🚶 ~3,5 km · 43 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Regent%27s%20Park%20Boating%20Lake%20London&destination=Regent%27s%20Park%20Boating%20Lake%20London&waypoints=Primrose%20Hill%20London&travelmode=walking) | 🚶 ~5,2 km · 65 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Regent%27s%20Park%20Boating%20Lake%20London&destination=Regent%27s%20Park%20Boating%20Lake%20London&waypoints=Primrose%20Hill%20London%7CCamden%20Lock%20Market%20London%7CRegent%27s%20Canal%20Camden%20London&travelmode=walking) |
 
-*Tip: maak gratis een Komoot-account aan om routes offline op je telefoon te downloaden (handig zonder roaming-data).*
+*Afstanden zijn schattingen (net als de dagroutes); Google Maps kan een net iets andere looproute kiezen.*

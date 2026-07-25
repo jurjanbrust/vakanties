@@ -57,8 +57,9 @@ Deze regels gelden voor alle toekomstige aanpassingen aan `programma.md` (en ver
 ## 11. Alternatieven per dag
 * Voeg onderaan het bestand een tabel toe met per dag één of meerdere alternatieven voor onderdelen die kunnen tegenvallen (druk, gesloten, uitverkocht), bij voorkeur in dezelfde buurt zodat er geen extra reistijd nodig is.
 
-## 12. Losse wandelroutes (Komoot)
-* Voeg onderaan het bestand een tabel toe met Komoot-zoeklinks (`https://www.komoot.com/discover?query=<zoekterm>`) per dag/gebied, verdeeld in kort (~2-3 km), middel (~5-6 km) en lang (~8-10 km), als optionele extra wandeling naast het hoofdprogramma.
+## 12. Losse wandellussen per gebied
+* Voeg onderaan het bestand een tabel toe met optionele wandellussen per dag/gebied (kort ~2-3 km, lang ~5-7 km), die starten én eindigen op hetzelfde punt.
+* Gebruik hiervoor **geen** Komoot-zoeklinks (blijken onbetrouwbaar/wisselend) — bouw net als de dagroutes een echte Google Maps-link met `origin`=`destination` (startpunt) en de tussenstops als `waypoints` (gescheiden door `|`), plus `travelmode=walking`. Bereken de afstand net als bij de dagroutes (haversine × 1,3 detourfactor) en vermeld die erbij.
 
 ## 13. Publiceren naar GitHub
 * Werkkopie: `/home/jurjan/Documents/London/programma.md` en `instructies-programma.md`. Gepubliceerde repo: `/home/jurjan/Documents/vakanties-repo` (submap `London-2026/`, remote `https://github.com/jurjanbrust/vakanties.git`).
