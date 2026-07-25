@@ -17,6 +17,8 @@
 * [Woensdag 5 augustus — Afsluiting & Vertrek](#dag6)
 * [🎟️ Ticketgids & Kosten](#tickets)
 * [💡 Extra Tips](#tips)
+* [🔄 Alternatieven per dag](#alternatieven)
+* [🥾 Wandelroutes (Komoot)](#wandelroutes)
 
 ---
 
@@ -40,7 +42,7 @@
 <a id="dag1"></a>
 #### **Vrijdag 31 juli: Aankomst, Sfeer & Verborgen Hofjes** *(~2,5 km wandelen)*
 
-> 🚄 **Aankomst Eurostar St Pancras: 14:17.** Check-in bij het hotel kan pas vanaf 15:30 — reken op ~30-45 min gat. Laat bagage vast achter bij het hotel (voor check-in vaak mogelijk) en pak alvast een koffie/lunch in de buurt van Oxford Street voor je richting Seven Dials wandelt.
+> 🚄 **Aankomst Eurostar St Pancras: 14:37** *(was 14:17, +20 min vertraging verwerkt).* Check-in bij het hotel kan pas vanaf 15:30 — reken op ~15-30 min gat (was ruimer, nu wat krapper). Laat bagage vast achter bij het hotel (voor check-in vaak mogelijk) en pak alvast een koffie/lunch in de buurt van Oxford Street voor je richting Seven Dials wandelt.
 > 🍽️ **Lunch (tijdens het wachten op check-in):** *Pret A Manger* of *Leon* bij St Pancras/Oxford Street — snel, gezond en betaalbaar (~£7-9 p.p.), ideaal voor de wachttijd.
 > ☔ **Bij regen:** Seven Dials Market en Neal's Yard zijn overdekt/beschut — prima regenalternatief voor de hele middag.
 
@@ -405,3 +407,40 @@
 * **Betalen & OV:** Gebruik voor de metro/bus eenvoudig een contactloze bankpas of creditcard (Oyster card is niet meer nodig).
 * **Groepsdiner (4 personen):** Keten-restaurants zoals *Dishoom*, *Flat Iron* (uitstekende biefstuk voor ~£15) en *Pizza Pilgrims* bieden een erg hoge kwaliteit tegen zeer redelijke prijzen. Reserveer voor de avonden tijdig om wachttijden met 4 personen te voorkomen.
 * **Fooien:** in restaurants wordt vaak automatisch 12,5% "optional service charge" op de rekening gezet — check de bon, dan hoeft er niets extra bij. Staat er niets op, dan is 10-12,5% gebruikelijk bij goede service. Bij pubs/counterservice (bestellen aan de bar) wordt geen fooi verwacht. Bij taxi's is afronden naar boven gebruikelijk.
+
+---
+
+<a id="alternatieven"></a>
+### 🔄 Alternatieven per dag
+
+Mocht een onderdeel tegenvallen (druk, dicht, geen zin) — dit zijn per dag goede vervangers in dezelfde buurt, geen extra reistijd nodig.
+
+| Dag | In plaats van | Alternatief |
+| --- | --- | --- |
+| Vr 31/7 | Chinatown-diner | **Soho's *Kricket*** (modern Indiaas, klein en sfeervol) of **Bao Soho** (Taiwanese bao's, laagdrempelig) |
+| Za 1/8 | London Eye (druk/duur) | **Monument to the Great Fire of London** (beklimmen voor uitzicht, veel goedkoper) of gewoon een boottochtje op de Theems vanaf Westminster Pier |
+| Za 1/8 | Tate Modern | **National Gallery** (Trafalgar Square, gratis, ligt op de heenweg) |
+| Zo 2/8 | Tower of London (indien uitverkocht) | **Tower Bridge Exhibition** (glazen vloer + machinekamers, los te boeken) buiten bekijken is ook gratis |
+| Zo 2/8 | Borough Market | **Leadenhall Market** heeft ook horeca en is rustiger als Borough te druk is |
+| Ma 3/8 | British Museum | **Sir John Soane's Museum** (Lincoln's Inn Fields, gratis, klein maar uniek) — vlakbij, veel rustiger |
+| Di 4/8 | Wallace Collection | **Sherlock Holmes Museum** (Baker Street, klein, leuk voor kinderen, wel entree) |
+| Di 4/8 | Mayfair-wandeling | **Hyde Park / Kensington Gardens** — groter park, iets verder maar met o.a. het Diana Memorial Playground |
+| Wo 5/8 | Camden Town | **Primrose Hill** (naast Regent's Park) — rustiger, mooi uitzicht over de skyline, minder tijdsdruk |
+
+---
+
+<a id="wandelroutes"></a>
+### 🥾 Wandelroutes ter plekke (Komoot)
+
+Losse, optionele wandelingen als er extra tijd of zin in is — gesorteerd van kort naar lang. Klik voor een route-overzicht op [Komoot](https://www.komoot.com) in de buurt van de bestemming (Komoot toont dan meerdere community-routes met exacte afstand/hoogtemeters, je kiest zelf wat past).
+
+| Gebied (welke dag) | Korte route (~2-3 km) | Middellange route (~5-6 km) | Lange route (~8-10 km) |
+| --- | --- | --- | --- |
+| Covent Garden/Soho (vr 31/7) | [Zoek routes](https://www.komoot.com/discover?query=Covent%20Garden%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Soho%20Bloomsbury%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Central%20London%20walking%20tour) |
+| South Bank/Westminster (za 1/8) | [Zoek routes](https://www.komoot.com/discover?query=South%20Bank%20Thames%20walk%20London) | [Zoek routes](https://www.komoot.com/discover?query=Thames%20Path%20Westminster%20London) | [Zoek routes](https://www.komoot.com/discover?query=Thames%20Path%20London%20walk) |
+| Tower/City (zo 2/8) | [Zoek routes](https://www.komoot.com/discover?query=Tower%20of%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Thames%20Path%20Tower%20Bridge%20walk) | [Zoek routes](https://www.komoot.com/discover?query=City%20of%20London%20walking%20tour) |
+| Bloomsbury (ma 3/8) | [Zoek routes](https://www.komoot.com/discover?query=Bloomsbury%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Regents%20Canal%20Islington%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Regents%20Canal%20walk%20London) |
+| Mayfair/Hyde Park (di 4/8) | [Zoek routes](https://www.komoot.com/discover?query=Mayfair%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Hyde%20Park%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Hyde%20Park%20Kensington%20Gardens%20walk) |
+| Regent's Park/Camden (wo 5/8) | [Zoek routes](https://www.komoot.com/discover?query=Regents%20Park%20London%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Primrose%20Hill%20Regents%20Canal%20walk) | [Zoek routes](https://www.komoot.com/discover?query=Regents%20Canal%20Camden%20walk) |
+
+*Tip: maak gratis een Komoot-account aan om routes offline op je telefoon te downloaden (handig zonder roaming-data).*
