@@ -65,6 +65,11 @@
       let md = await res.text();
       // Herschrijf relatieve foto-paden naar de raw GitHub-URL
       md = md.replace(/src="fotos\//g, `src="${RAW_BASE}London-2026/fotos/`);
+      // Losse "~" (gebruikt als "circa") wordt door marked anders als
+      // strikethrough-markering gezien (samen met de eerstvolgende "~"),
+      // waardoor grote stukken tekst onbedoeld doorgestreept lijken.
+      // Escape losse tildes, laat echte "~~strikethrough~~" ongemoeid.
+      md = md.replace(/~(?!~)/g, "\\~").replace(/\\~\\~/g, "~~");
       marked.setOptions({ breaks: false });
       document.getElementById("content").innerHTML = marked.parse(md);
     } catch (e) {
