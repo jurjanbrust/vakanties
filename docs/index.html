@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vakanties</title>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         max-width: 900px; margin: 0 auto; padding: 1rem; line-height: 1.5; }
+  img { max-width: 100%; height: auto; }
+  table { border-collapse: collapse; display: block; overflow-x: auto; width: 100%; max-width: 100%; white-space: nowrap; }
+  th, td { border: 1px solid #ccc; padding: 0.4rem 0.6rem; text-align: left; }
+  details { background: #f6f8fa; border-radius: 6px; padding: 0.5rem 0.8rem; margin: 0.5rem 0; }
+  summary { cursor: pointer; font-weight: 600; }
+  a { color: #0969da; }
+  #gate { max-width: 320px; margin: 4rem auto; text-align: center; }
+  #gate input { font-size: 1rem; padding: 0.5rem; width: 100%; box-sizing: border-box; margin-bottom: 0.5rem; }
+  #gate button { font-size: 1rem; padding: 0.5rem 1rem; width: 100%; cursor: pointer; }
+  #error { color: #d1242f; font-size: 0.9rem; min-height: 1.2em; }
+  #content { display: none; }
+  #loading { text-align: center; margin-top: 3rem; }
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <h2>🔒 Vakanties</h2>
+  <p>Deze pagina is afgeschermd. Voer het wachtwoord in.</p>
+  <input type="password" id="pw" placeholder="Wachtwoord" autofocus>
+  <button onclick="tryUnlock()">Bekijken</button>
+  <div id="error"></div>
+</div>
+
+<div id="loading" style="display:none">Programma wordt geladen…</div>
+<div id="content"></div>
+
+<script>
+  // Let op: dit is enkel een lichte drempel voor toevallige bezoekers,
+  // geen echte beveiliging (de repo/pagina-broncode is publiek te bekijken).
+  const PASSWORD = "london";
+  const RAW_BASE = "https://raw.githubusercontent.com/jurjanbrust/vakanties/main/";
+  const PAGE = "London-2026/README.md";
+
+  document.getElementById("pw").addEventListener("keydown", e => {
+    if (e.key === "Enter") tryUnlock();
+  });
+
+  function tryUnlock() {
+    const val = document.getElementById("pw").value;
+    if (val === PASSWORD) {
+      sessionStorage.setItem("vakanties_unlocked", "1");
+      showContent();
+    } else {
+      document.getElementById("error").textContent = "Onjuist wachtwoord.";
+    }
+  }
+
+  async function showContent() {
+    document.getElementById("gate").style.display = "none";
+    document.getElementById("loading").style.display = "block";
+    try {
+      const res = await fetch(RAW_BASE + PAGE);
+      let md = await res.text();
+      // Herschrijf relatieve foto-paden naar de raw GitHub-URL
+      md = md.replace(/src="fotos\//g, `src="${RAW_BASE}London-2026/fotos/`);
+      marked.setOptions({ breaks: false });
+      document.getElementById("content").innerHTML = marked.parse(md);
+    } catch (e) {
+      document.getElementById("content").innerHTML = "<p>Kon het programma niet laden. Probeer het later opnieuw.</p>";
+    }
+    document.getElementById("loading").style.display = "none";
+    document.getElementById("content").style.display = "block";
+  }
+
+  if (sessionStorage.getItem("vakanties_unlocked") === "1") {
+    document.getElementById("gate").style.display = "none";
+    showContent();
+  }
+</script>
+
+</body>
+</html>
