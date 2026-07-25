@@ -55,10 +55,11 @@ Deze regels gelden voor alle toekomstige aanpassingen aan `programma.md` (en ver
 * Controleer of aansluitende tijdsblokken (check-in, buffers) nog kloppen na de aanpassing.
 
 ## 11. Alternatieven per dag
-* Voeg onderaan het bestand een tabel toe met per dag één of meerdere alternatieven voor onderdelen die kunnen tegenvallen (druk, gesloten, uitverkocht), bij voorkeur in dezelfde buurt zodat er geen extra reistijd nodig is.
+* Voeg **onderaan elke dag zelf** (net vóór de `---`-scheiding) een klein "🔄 Alternatieven"-blok toe met per onderdeel dat kan tegenvallen (druk, gesloten, uitverkocht) een vervanger in dezelfde buurt — geen aparte verzameltabel aan het eind van het bestand, dat leest minder prettig.
+* Voeg bij elk alternatief een Google Maps-locatielink toe met het format `https://www.google.com/maps/search/?api=1&query=<naam>`.
 
 ## 12. Losse wandellussen per gebied
-* Voeg onderaan het bestand een tabel toe met optionele wandellussen per dag/gebied (kort ~2-3 km, lang ~5-7 km), die starten én eindigen op hetzelfde punt.
+* Voeg **onderaan elke dag zelf** (net vóór de `---`-scheiding, na het alternatievenblok) één regel toe met optionele wandellussen voor dat gebied (kort ~2-3 km, lang ~5-7 km), die starten én eindigen op hetzelfde punt — geen aparte verzameltabel aan het eind van het bestand.
 * Gebruik hiervoor **geen** Komoot-zoeklinks (blijken onbetrouwbaar/wisselend) — bouw net als de dagroutes een echte Google Maps-link met `origin`=`destination` (startpunt) en de tussenstops als `waypoints` (gescheiden door `|`), plus `travelmode=walking`. Bereken de afstand net als bij de dagroutes (haversine × 1,3 detourfactor) en vermeld die erbij.
 
 ## 13. Publiceren naar GitHub

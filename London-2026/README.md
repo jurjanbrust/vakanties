@@ -17,8 +17,6 @@
 * [Woensdag 5 augustus — Afsluiting & Vertrek](#dag6)
 * [🎟️ Ticketgids & Kosten](#tickets)
 * [💡 Extra Tips](#tips)
-* [🔄 Alternatieven per dag](#alternatieven)
-* [🥾 Wandellussen (Google Maps)](#wandelroutes)
 
 ---
 
@@ -98,6 +96,10 @@
 
   📅 *Reserveren:* pubs zijn walk-in (geen reservering nodig/mogelijk); Chinatown-restaurants raden we aan rond 19:00 te bezoeken om drukte te vermijden.
 
+* 🔄 **Alternatieven:**
+  * i.p.v. Chinatown-diner → **Kricket Soho** (modern Indiaas, klein en sfeervol) — [locatie](https://www.google.com/maps/search/?api=1&query=Kricket%20Soho%20London) · of **Bao Soho** (Taiwanese bao's, laagdrempelig) — [locatie](https://www.google.com/maps/search/?api=1&query=Bao%20Soho%20London)
+* 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Seven Dials)*: 🚶 kort ~2,3 km/28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking) — of lang ~5,4 km/68 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CSouth%20Bank%20Royal%20Festival%20Hall%7CWestminster%20Bridge%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking)
+
 [⬆️ Terug naar boven](#top)
 
 ---
@@ -154,6 +156,11 @@
 * **Avond:** Diner met de groep bij een sfeervolle en betaalbare brasserie, zoals *Dishoom* (stijlvol Indiaas streetfood, geweldige prijs-kwaliteit) of *Honest Burgers*.
 
   📅 *Reserveren:* [Dishoom](https://www.dishoom.com) accepteert geen reserveringen voor kleine groepen (walk-in, vaak wachtrij) — kom rond 18:00 voor de deur; [Honest Burgers](https://www.honestburgers.co.uk) wél online reserveerbaar, zeker doen in augustus.
+
+* 🔄 **Alternatieven:**
+  * i.p.v. London Eye (druk/duur) → **Monument to the Great Fire of London** (beklimmen voor uitzicht, veel goedkoper) — [locatie](https://www.google.com/maps/search/?api=1&query=The%20Monument%20London) · of een boottochtje op de Theems vanaf Westminster Pier — [locatie](https://www.google.com/maps/search/?api=1&query=Westminster%20Pier%20London)
+  * i.p.v. Tate Modern → **National Gallery** (Trafalgar Square, gratis, ligt op de heenweg) — [locatie](https://www.google.com/maps/search/?api=1&query=National%20Gallery%20London)
+* 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Big Ben)*: 🚶 kort ~2,2 km/28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall&travelmode=walking) — of lang ~6,5 km/81 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
 
@@ -234,6 +241,11 @@
 
   📅 *Reserveren:* [The Anchor Bankside](https://www.taylor-walk.co.uk/pub-details/9484/the-anchor-bankside) — reserveer vooraf voor een tafel met theemszicht, zeker in het weekend.
 
+* 🔄 **Alternatieven:**
+  * i.p.v. Tower of London (indien uitverkocht) → **Tower Bridge Exhibition** (glazen vloer + machinekamers, los te boeken) — [locatie](https://www.google.com/maps/search/?api=1&query=Tower%20Bridge%20Exhibition%20London); buiten bekijken is ook gratis
+  * i.p.v. Borough Market (te druk) → **Leadenhall Market** — [locatie](https://www.google.com/maps/search/?api=1&query=Leadenhall%20Market%20London), heeft ook horeca en is rustiger
+* 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Tower of London)*: 🚶 kort ~3,2 km/40 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London&travelmode=walking) — of lang ~5,6 km/70 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London%7CLeadenhall%20Market%20London&travelmode=walking)
+
 [⬆️ Terug naar boven](#top)
 
 ---
@@ -281,6 +293,10 @@
 * **Avond:** Diner bij *Seven Dials Market* of een traditionele pie & mash bij *The Ivy Market Grill* (goede prijs-kwaliteitverhouding als je vooraf reserveert).
 
   📅 *Reserveren:* [The Ivy Market Grill](https://ivycollection.com/restaurants-near-me/the-ivy-london/the-ivy-market-grill-covent-garden/) — populair, boek minimaal enkele dagen vooraf voor een tafel van 4.
+
+* 🔄 **Alternatieven:**
+  * i.p.v. British Museum → **Sir John Soane's Museum** (Lincoln's Inn Fields, gratis, klein maar uniek) — [locatie](https://www.google.com/maps/search/?api=1&query=Sir%20John%20Soane%27s%20Museum%20London), veel rustiger
+* 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: British Museum)*: 🚶 kort ~1,4 km/17 min · [Route](https://www.google.com/maps/dir/?api=1&origin=British%20Museum%20London&destination=British%20Museum%20London&waypoints=Russell%20Square%20London%7CBloomsbury%20Square%20London&travelmode=walking) — of lang ~2,8 km/35 min · [Route](https://www.google.com/maps/dir/?api=1&origin=British%20Museum%20London&destination=British%20Museum%20London&waypoints=Russell%20Square%20London%7CLincoln%27s%20Inn%20Fields%20London%7CBloomsbury%20Square%20London&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
 
@@ -339,6 +355,11 @@
 
   📅 *Reserveren:* [The Grazing Goat](https://www.cubitthouse.co.uk/the-grazing-goat-boutique-hotel-marylebone/) — reserveer online vooraf, vooral in het weekend erg gewild.
 
+* 🔄 **Alternatieven:**
+  * i.p.v. Wallace Collection → **Sherlock Holmes Museum** (Baker Street, klein, leuk voor kinderen, wel entree) — [locatie](https://www.google.com/maps/search/?api=1&query=Sherlock%20Holmes%20Museum%20London)
+  * i.p.v. Mayfair-wandeling → **Hyde Park / Kensington Gardens** — [locatie](https://www.google.com/maps/search/?api=1&query=Hyde%20Park%20London), groter park met o.a. het Diana Memorial Playground
+* 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Wallace Collection)*: 🚶 kort ~1,9 km/24 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Wallace%20Collection%20London&destination=Wallace%20Collection%20London&waypoints=Marylebone%20High%20Street%20London%7CBaker%20Street%20Station%20London&travelmode=walking) — of lang ~3,5 km/44 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Wallace%20Collection%20London&destination=Wallace%20Collection%20London&waypoints=Marylebone%20High%20Street%20London%7CBaker%20Street%20Station%20London%7CRegent%27s%20Park%20Boating%20Lake%20London&travelmode=walking)
+
 [⬆️ Terug naar boven](#top)
 
 ---
@@ -384,6 +405,10 @@
   🍽️ *Lunch:* **Camden Market foodstalls** — enorme variatie streetfood langs Regent's Canal, ~£8-12 p.p.
 * **Middag (13:30-14:15):** Metro terug naar het hotel om de bagage op te halen, dan metro naar **St Pancras International** — aankomst ruim voor het vertrek van 16:54.
 
+* 🔄 **Alternatieven:**
+  * i.p.v. Camden Town → **Primrose Hill** (naast Regent's Park) — [locatie](https://www.google.com/maps/search/?api=1&query=Primrose%20Hill%20London), rustiger, mooi uitzicht over de skyline, minder tijdsdruk
+* 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Regent's Park Boating Lake)*: 🚶 kort ~3,5 km/43 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Regent%27s%20Park%20Boating%20Lake%20London&destination=Regent%27s%20Park%20Boating%20Lake%20London&waypoints=Primrose%20Hill%20London&travelmode=walking) — of lang ~5,2 km/65 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Regent%27s%20Park%20Boating%20Lake%20London&destination=Regent%27s%20Park%20Boating%20Lake%20London&waypoints=Primrose%20Hill%20London%7CCamden%20Lock%20Market%20London%7CRegent%27s%20Canal%20Camden%20London&travelmode=walking) *(let op: alleen als er nog ruim tijd is vóór het vertrek van 16:54)*
+
 [⬆️ Terug naar boven](#top)
 
 ---
@@ -408,39 +433,3 @@
 * **Groepsdiner (4 personen):** Keten-restaurants zoals *Dishoom*, *Flat Iron* (uitstekende biefstuk voor ~£15) en *Pizza Pilgrims* bieden een erg hoge kwaliteit tegen zeer redelijke prijzen. Reserveer voor de avonden tijdig om wachttijden met 4 personen te voorkomen.
 * **Fooien:** in restaurants wordt vaak automatisch 12,5% "optional service charge" op de rekening gezet — check de bon, dan hoeft er niets extra bij. Staat er niets op, dan is 10-12,5% gebruikelijk bij goede service. Bij pubs/counterservice (bestellen aan de bar) wordt geen fooi verwacht. Bij taxi's is afronden naar boven gebruikelijk.
 
----
-
-<a id="alternatieven"></a>
-### 🔄 Alternatieven per dag
-
-Mocht een onderdeel tegenvallen (druk, dicht, geen zin) — dit zijn per dag goede vervangers in dezelfde buurt, geen extra reistijd nodig.
-
-| Dag | In plaats van | Alternatief |
-| --- | --- | --- |
-| Vr 31/7 | Chinatown-diner | **Soho's *Kricket*** (modern Indiaas, klein en sfeervol) of **Bao Soho** (Taiwanese bao's, laagdrempelig) |
-| Za 1/8 | London Eye (druk/duur) | **Monument to the Great Fire of London** (beklimmen voor uitzicht, veel goedkoper) of gewoon een boottochtje op de Theems vanaf Westminster Pier |
-| Za 1/8 | Tate Modern | **National Gallery** (Trafalgar Square, gratis, ligt op de heenweg) |
-| Zo 2/8 | Tower of London (indien uitverkocht) | **Tower Bridge Exhibition** (glazen vloer + machinekamers, los te boeken) buiten bekijken is ook gratis |
-| Zo 2/8 | Borough Market | **Leadenhall Market** heeft ook horeca en is rustiger als Borough te druk is |
-| Ma 3/8 | British Museum | **Sir John Soane's Museum** (Lincoln's Inn Fields, gratis, klein maar uniek) — vlakbij, veel rustiger |
-| Di 4/8 | Wallace Collection | **Sherlock Holmes Museum** (Baker Street, klein, leuk voor kinderen, wel entree) |
-| Di 4/8 | Mayfair-wandeling | **Hyde Park / Kensington Gardens** — groter park, iets verder maar met o.a. het Diana Memorial Playground |
-| Wo 5/8 | Camden Town | **Primrose Hill** (naast Regent's Park) — rustiger, mooi uitzicht over de skyline, minder tijdsdruk |
-
----
-
-<a id="wandelroutes"></a>
-### 🥾 Losse wandellussen per gebied (Google Maps)
-
-Optionele extra wandelingen als er tijd/zin voor is — een rondje vanaf en naar hetzelfde punt, zodat je makkelijk terug bent bij je startpunt. Zelfde linkformaat als de dagroutes (opent direct als wandelroute).
-
-| Gebied (welke dag) | Korte lus | Lange lus |
-| --- | --- | --- |
-| Covent Garden/Soho (vr 31/7) | 🚶 ~2,3 km · 28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking) | 🚶 ~5,4 km · 68 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CSouth%20Bank%20Royal%20Festival%20Hall%7CWestminster%20Bridge%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking) |
-| South Bank/Westminster (za 1/8) | 🚶 ~2,2 km · 28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall&travelmode=walking) | 🚶 ~6,5 km · 81 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London&travelmode=walking) |
-| Tower/City (zo 2/8) | 🚶 ~3,2 km · 40 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London&travelmode=walking) | 🚶 ~5,6 km · 70 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London%7CLeadenhall%20Market%20London&travelmode=walking) |
-| Bloomsbury (ma 3/8) | 🚶 ~1,4 km · 17 min · [Route](https://www.google.com/maps/dir/?api=1&origin=British%20Museum%20London&destination=British%20Museum%20London&waypoints=Russell%20Square%20London%7CBloomsbury%20Square%20London&travelmode=walking) | 🚶 ~2,8 km · 35 min · [Route](https://www.google.com/maps/dir/?api=1&origin=British%20Museum%20London&destination=British%20Museum%20London&waypoints=Russell%20Square%20London%7CLincoln%27s%20Inn%20Fields%20London%7CBloomsbury%20Square%20London&travelmode=walking) |
-| Mayfair/Marylebone (di 4/8) | 🚶 ~1,9 km · 24 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Wallace%20Collection%20London&destination=Wallace%20Collection%20London&waypoints=Marylebone%20High%20Street%20London%7CBaker%20Street%20Station%20London&travelmode=walking) | 🚶 ~3,5 km · 44 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Wallace%20Collection%20London&destination=Wallace%20Collection%20London&waypoints=Marylebone%20High%20Street%20London%7CBaker%20Street%20Station%20London%7CRegent%27s%20Park%20Boating%20Lake%20London&travelmode=walking) |
-| Regent's Park/Camden (wo 5/8) | 🚶 ~3,5 km · 43 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Regent%27s%20Park%20Boating%20Lake%20London&destination=Regent%27s%20Park%20Boating%20Lake%20London&waypoints=Primrose%20Hill%20London&travelmode=walking) | 🚶 ~5,2 km · 65 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Regent%27s%20Park%20Boating%20Lake%20London&destination=Regent%27s%20Park%20Boating%20Lake%20London&waypoints=Primrose%20Hill%20London%7CCamden%20Lock%20Market%20London%7CRegent%27s%20Canal%20Camden%20London&travelmode=walking) |
-
-*Afstanden zijn schattingen (net als de dagroutes); Google Maps kan een net iets andere looproute kiezen.*
