@@ -159,8 +159,9 @@
   📅 *Reserveren:* [Dishoom](https://www.dishoom.com) accepteert geen reserveringen voor kleine groepen (walk-in, vaak wachtrij) — kom rond 18:00 voor de deur; [Honest Burgers](https://www.honestburgers.co.uk) wél online reserveerbaar, zeker doen in augustus.
 
 * 🔄 **Alternatieven:**
-  * i.p.v. London Eye (druk/duur) → **Monument to the Great Fire of London** (beklimmen voor uitzicht, veel goedkoper) — [locatie](https://www.google.com/maps/search/?api=1&query=The%20Monument%20London) · of een boottochtje op de Theems vanaf Westminster Pier — [locatie](https://www.google.com/maps/search/?api=1&query=Westminster%20Pier%20London)
+  * i.p.v. London Eye (druk/duur) → **Monument to the Great Fire of London** (beklimmen voor uitzicht, veel goedkoper) — [locatie](https://www.google.com/maps/search/?api=1&query=The%20Monument%20London)
   * i.p.v. Tate Modern → **National Gallery** (Trafalgar Square, gratis, ligt op de heenweg) — [locatie](https://www.google.com/maps/search/?api=1&query=National%20Gallery%20London)
+  * i.p.v. de wandeling langs de Theems → **Boottocht met Uber Boat by Thames Clippers** vanaf Westminster Pier naar Bankside Pier (bij Tate Modern), ~15 min, mooi zicht op Big Ben en de South Bank — [tickets & tijden](https://www.thamesclippers.com) · [locatie Westminster Pier](https://www.google.com/maps/search/?api=1&query=Westminster%20Pier%20London)
 * 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Big Ben)*: 🚶 kort ~2,2 km/28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall&travelmode=walking) — of lang ~6,5 km/81 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
@@ -245,6 +246,7 @@
 * 🔄 **Alternatieven:**
   * i.p.v. Tower of London (indien uitverkocht) → **Tower Bridge Exhibition** (glazen vloer + machinekamers, los te boeken) — [locatie](https://www.google.com/maps/search/?api=1&query=Tower%20Bridge%20Exhibition%20London); buiten bekijken is ook gratis
   * i.p.v. Borough Market (te druk) → **Leadenhall Market** — [locatie](https://www.google.com/maps/search/?api=1&query=Leadenhall%20Market%20London), heeft ook horeca en is rustiger
+  * i.p.v. de metro terug → **Boottocht met Uber Boat by Thames Clippers** vanaf Tower Pier naar Westminster Pier, ~20 min, leuke afsluiter met zicht op Tower Bridge en de Theemsoever — [tickets & tijden](https://www.thamesclippers.com) · [locatie Tower Pier](https://www.google.com/maps/search/?api=1&query=Tower%20Pier%20London)
 * 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Tower of London)*: 🚶 kort ~3,2 km/40 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London&travelmode=walking) — of lang ~5,6 km/70 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London%7CLeadenhall%20Market%20London&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
