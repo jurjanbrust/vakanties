@@ -98,6 +98,7 @@
 
 * 🔄 **Alternatieven:**
   * i.p.v. Chinatown-diner → **Kricket Soho** (modern Indiaas, klein en sfeervol) — [locatie](https://www.google.com/maps/search/?api=1&query=Kricket%20Soho%20London) · of **Bao Soho** (Taiwanese bao's, laagdrempelig) — [locatie](https://www.google.com/maps/search/?api=1&query=Bao%20Soho%20London)
+  * i.p.v. de avondwandeling → **Big Bus London by Night Tour** (open-top bussightseeing langs verlichte iconen zoals Big Ben, Tower Bridge en Buckingham Palace, ~1 uur) — [Big Bus tickets](https://www.bigbustours.com/en/london/london-evening-tour-ticket) · opstap o.a. bij Green Park/Piccadilly, vooraf online boeken
 * 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Seven Dials)*: 🚶 kort ~2,3 km/28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking) — of lang ~5,4 km/68 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CSouth%20Bank%20Royal%20Festival%20Hall%7CWestminster%20Bridge%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
@@ -296,6 +297,7 @@
 
 * 🔄 **Alternatieven:**
   * i.p.v. British Museum → **Sir John Soane's Museum** (Lincoln's Inn Fields, gratis, klein maar uniek) — [locatie](https://www.google.com/maps/search/?api=1&query=Sir%20John%20Soane%27s%20Museum%20London), veel rustiger
+  * i.p.v. het diner bij Seven Dials Market/The Ivy → **Big Bus London by Night Tour** (open-top bussightseeing langs verlichte iconen zoals Big Ben, Tower Bridge en Buckingham Palace, ~1 uur) — [Big Bus tickets](https://www.bigbustours.com/en/london/london-evening-tour-ticket) · opstap o.a. bij Green Park/Piccadilly, vooraf online boeken
 * 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: British Museum)*: 🚶 kort ~1,4 km/17 min · [Route](https://www.google.com/maps/dir/?api=1&origin=British%20Museum%20London&destination=British%20Museum%20London&waypoints=Russell%20Square%20London%7CBloomsbury%20Square%20London&travelmode=walking) — of lang ~2,8 km/35 min · [Route](https://www.google.com/maps/dir/?api=1&origin=British%20Museum%20London&destination=British%20Museum%20London&waypoints=Russell%20Square%20London%7CLincoln%27s%20Inn%20Fields%20London%7CBloomsbury%20Square%20London&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
