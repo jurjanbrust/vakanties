@@ -22,18 +22,18 @@
 
 ### 🌤️ Weersverwachting & kledingadvies
 
-> ⚠️ Prognose is 6-11 dagen vooruit (indicatief) — check dit nogmaals 1-2 dagen voor vertrek.
+> ⚠️ Actuele voorspelling (1-6 dagen vooruit, bijgewerkt 30/7) — betrouwbaarder dan lange-termijnprognoses, check ochtend voor vertrek nog eenmaal.
 
 | Dag | Temp. | Neerslagkans | Verwachting |
 |---|---|---|---|
-| Vr 31/7 | 20-27°C | 12% | Overwegend droog en zonnig |
-| Za 1/8 | 18-27°C | 9% | Droog, kans op lichte motregen |
-| Zo 2/8 | 17-27°C | 10% | Bewolkt |
-| Ma 3/8 | 17-25°C | 11% | Bewolkt |
-| Di 4/8 | 17-24°C | 16% | Kans op wat motregen |
-| Wo 5/8 | 18-26°C | 18% | Kans op een (onweers)bui |
+| Vr 31/7 | 18-25°C | 21% | Bewolkt |
+| Za 1/8 | 16-25°C | 0% | Half bewolkt, droog |
+| Zo 2/8 | 16-26°C | 2% | Bewolkt, droog |
+| Ma 3/8 | 19-29°C | 27% | Bewolkt, kans op bui |
+| Di 4/8 | 20-26°C | 45% | Kans op motregen |
+| Wo 5/8 | 19-26°C | 31% | Bewolkt, kans op bui |
 
-**Kledingadvies:** overdag warm (17-27°C) — lichte kleding, korte broek/jurk. Avonden koeler (17-20°C) — neem een dun vest of jasje mee. Elke dag ~10-18% regenkans: pak een compacte paraplu of lichte regenjas in de tas. Comfortabele wandelschoenen zijn een must gezien de dagelijkse 2,5-6,5 km. Zonnebrand/zonnepet aanraden voor de zonnigere dagen (vr/za).
+**Kledingadvies:** overdag aangenaam warm (16-29°C, warmste dag ma 3/8) — lichte kleding, korte broek/jurk. Avonden koeler (16-20°C) — neem een dun vest of jasje mee. Di 4/8 een flinke regenkans (45%): paraplu/lichte regenjas die dag zeker meenemen; overige dagen ter voorzorg ook inpakken. Comfortabele wandelschoenen zijn een must gezien de dagelijkse 2,5-6,5 km. Voor zaterdagavond (Phantom of the Opera): het theater is binnen, maar neem voor onderweg toch een jasje mee voor de koelere avondlucht.
 
 ---
 
@@ -108,7 +108,7 @@
 <a id="dag2"></a>
 #### **Zaterdag 1 augustus: Iconische Highlights & Het Reuzenrad** *(~4,5 km wandelen)*
 
-> 🕒 **Openingstijden:** London Eye doorgaans 10:00-20:30 in augustus (tijdslot-afhankelijk, check bij boeking) · Tate Modern 10:00-18:00 (bevestigd).
+> 🕒 **Openingstijden:** London Eye doorgaans 10:00-20:30 in augustus (tijdslot-afhankelijk, check bij boeking) · Tate Modern 10:00-18:00 (bevestigd) · **Phantom of the Opera** (His Majesty's Theatre) aanvang 19:30, deuren open ~18:45.
 > 🍳 **Ontbijt:** *Kaffeine* (Great Titchfield Street), 8 min lopen van het hotel — uitstekende koffie & pastries (~£6-9 p.p.).
 > ☔ **Bij regen:** Ruil het London Eye voor een latere/andere dag (weinig zicht bij mist/regen) en ga direct door naar **Tate Modern** (gratis, overdekt) — bewaar het Eye voor een heldere dag deze week.
 
@@ -119,6 +119,7 @@
 | 🚶 | Hotel → Big Ben / Westminster *(alt. 🚇 Bakerloo-lijn Oxford Circus→Charing Cross, ~10 min)* | 2,6 km | 35 min | [Route](https://www.google.com/maps/dir/?api=1&origin=STG%20Hotel%20Oxford%20Street%20London&destination=Big%20Ben%20London&travelmode=walking) |
 | 🚶 | Westminster → London Eye | 0,6 km | 5 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=London%20Eye&travelmode=walking) |
 | 🚶 | London Eye → Tate Modern *(langs de Theems, Southbank)* | 1,9 km | 25 min | [Route](https://www.google.com/maps/dir/?api=1&origin=London%20Eye&destination=Tate%20Modern&travelmode=walking) |
+| 🚇 | Tate Modern → His Majesty's Theatre *(Southwark→Piccadilly Circus, Jubilee/Bakerloo-lijn; alt. 🚶 3,1 km/38 min langs de Theems en door Covent Garden)* | 3,1 km | 15 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Tate%20Modern%20London&destination=His%20Majesty%27s%20Theatre%20London&travelmode=transit) |
 
 * **Ochtend:** Wandel naar Westminster. Bekijk de **Big Ben**, **Parliament Square** en **Westminster Abbey** van buiten.
 
@@ -154,14 +155,15 @@
   ⚠️ **Vermijd:** proberen alles in één bezoek te zien — het museum is enorm, kies vooraf 1-2 verdiepingen.
   </details>
 
-* **Avond:** Diner met de groep bij een sfeervolle en betaalbare brasserie, zoals *Dishoom* (stijlvol Indiaas streetfood, geweldige prijs-kwaliteit) of *Honest Burgers*.
+* **Avond:** Vroeg diner met de groep rond Piccadilly Circus/Soho (bijv. *Bao* of *Flat Iron Soho*, laagdrempelig en snel), daarna om **19:30 Phantom of the Opera** in het **His Majesty's Theatre** (Haymarket) — deuren open ~18:45, dus rond 18:30 ter plaatse zijn.
 
-  📅 *Reserveren:* [Dishoom](https://www.dishoom.com) accepteert geen reserveringen voor kleine groepen (walk-in, vaak wachtrij) — kom rond 18:00 voor de deur; [Honest Burgers](https://www.honestburgers.co.uk) wél online reserveerbaar, zeker doen in augustus.
+  📅 *Reserveren:* diner vooraf reserveren i.v.m. de vaste showtijd (bijv. via [Flat Iron Soho](https://flatironsteak.co.uk), geen reserveringen voor grote groepen dus check ter plekke); Phantom-tickets via de officiële site [thephantomoftheopera.com/london](https://www.thephantomoftheopera.com/london) — ruim vóór aankomst boeken, vooral in augustus vaak uitverkocht.
 
 * 🔄 **Alternatieven:**
   * i.p.v. London Eye (druk/duur) → **Monument to the Great Fire of London** (beklimmen voor uitzicht, veel goedkoper) — [locatie](https://www.google.com/maps/search/?api=1&query=The%20Monument%20London)
   * i.p.v. Tate Modern → **National Gallery** (Trafalgar Square, gratis, ligt op de heenweg) — [locatie](https://www.google.com/maps/search/?api=1&query=National%20Gallery%20London)
   * i.p.v. de wandeling langs de Theems → **Boottocht met Uber Boat by Thames Clippers** vanaf Westminster Pier naar Bankside Pier (bij Tate Modern), ~15 min, mooi zicht op Big Ben en de South Bank — [tickets & tijden](https://www.thamesclippers.com) · [locatie Westminster Pier](https://www.google.com/maps/search/?api=1&query=Westminster%20Pier%20London)
+  * mocht Phantom onverwacht uitverkocht/geannuleerd zijn → last-minute alternatief bij het **TKTS**-kraampje op Leicester Square voor een andere West End-show dezelfde avond — [locatie](https://www.google.com/maps/search/?api=1&query=TKTS%20Leicester%20Square%20London)
 * 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Big Ben)*: 🚶 kort ~2,2 km/28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall&travelmode=walking) — of lang ~6,5 km/81 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Big%20Ben%20London&destination=Big%20Ben%20London&waypoints=Westminster%20Bridge%20London%7CSouth%20Bank%20Royal%20Festival%20Hall%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
