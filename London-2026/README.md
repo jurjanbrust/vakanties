@@ -38,20 +38,35 @@
 ---
 
 <a id="dag1"></a>
-#### **Vrijdag 31 juli: Aankomst, Sfeer & Verborgen Hofjes** *(~2,5 km wandelen)*
+#### **Vrijdag 31 juli: Aankomst, Sfeer & Verborgen Hofjes** *(~3 km wandelen)*
 
-> 🚄 **Aankomst Eurostar St Pancras: 14:37** *(was 14:17, +20 min vertraging verwerkt).* Check-in bij het hotel kan pas vanaf 15:30 — reken op ~15-30 min gat (was ruimer, nu wat krapper). Laat bagage vast achter bij het hotel (voor check-in vaak mogelijk) en pak alvast een koffie/lunch in de buurt van Oxford Street voor je richting Seven Dials wandelt.
+> 🚄 **Aankomst Eurostar St Pancras: 14:37** *(was 14:17, +20 min vertraging verwerkt).* Loop meteen door naar het aangrenzende **King's Cross station** (~3 min lopen) voor een fotostop bij **Platform 9¾** — reken op ~15-20 min inclusief wachtrij voor de officiële foto. Check-in bij het hotel kan pas vanaf 15:30 — reken op ~15-30 min gat (was ruimer, nu wat krapper). Laat bagage vast achter bij het hotel (voor check-in vaak mogelijk) en pak alvast een koffie/lunch in de buurt van Oxford Street voor je richting Seven Dials wandelt.
 > 🍽️ **Lunch (tijdens het wachten op check-in):** *Pret A Manger* of *Leon* bij St Pancras/Oxford Street — snel, gezond en betaalbaar (~£7-9 p.p.), ideaal voor de wachttijd.
-> ☔ **Bij regen:** Seven Dials Market en Neal's Yard zijn overdekt/beschut — prima regenalternatief voor de hele middag.
+> ☔ **Bij regen:** Seven Dials Market en Neal's Yard zijn overdekt/beschut — prima regenalternatief voor de hele middag; Platform 9¾ is sowieso binnen (King's Cross station).
 
-🗺️ **Route** *(volledig te voet)*
+🗺️ **Route** *(volledig te voet, op één metrostukje na)*
 
 | | Van → Naar | Afstand | Tijd | Kaart |
 |---|---|---|---|---|
+| 🚶 | St Pancras → King's Cross (Platform 9¾) | 0,3 km | 4 min | [Route](https://www.google.com/maps/dir/?api=1&origin=St%20Pancras%20International&destination=King%27s%20Cross%20Station%20Platform%209%203%2F4&travelmode=walking) |
+| 🚇 | King's Cross St Pancras → Hotel *(Victoria-lijn naar Oxford Circus)* | 2,3 km | 15 min | [Route](https://www.google.com/maps/dir/?api=1&origin=King%27s%20Cross%20St%20Pancras%20Station%20London&destination=STG%20Hotel%20Oxford%20Street%20London&travelmode=transit) |
 | 🚶 | Hotel → Seven Dials | 1,3 km | 15 min | [Route](https://www.google.com/maps/dir/?api=1&origin=STG%20Hotel%20Oxford%20Street%20London&destination=Seven%20Dials%20London&travelmode=walking) |
 | 🚶 | Seven Dials → Neal's Yard | 0,1 km | 2 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials%20London&destination=Neal%27s%20Yard%20London&travelmode=walking) |
 | 🚶 | Neal's Yard → Soho | 0,5 km | 5 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Neal%27s%20Yard%20London&destination=Soho%20Square%20London&travelmode=walking) |
 | 🚶 | Soho → Chinatown | 0,6 km | 5 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Soho%20Square%20London&destination=Chinatown%20London%20Gerrard%20Street&travelmode=walking) |
+| 🚶 | Chinatown → Cecil Court | 0,3 km | 4 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Chinatown%20London%20Gerrard%20Street&destination=Cecil%20Court%20London&travelmode=walking) |
+
+* **Aankomst:** Fotostop bij **Platform 9¾** in King's Cross station, direct na aankomst — de bagagetrolley die "door de muur verdwijnt".
+
+  <img src="fotos/platform-9-3-4.jpg" width="300" alt="Platform 9¾ King's Cross">
+
+  <details><summary>ℹ️ Achtergrond & tips: Platform 9¾</summary>
+
+  🔗 [Wikipedia](https://en.wikipedia.org/wiki/King%27s_Cross_railway_station#Fictional_use)
+  🎬 **Harry Potter-feitje:** de trolley "verdwijnt" hier in de muur op weg naar de Zweinstein Express; de foto-installatie staat sinds 2012 op de huidige plek in de stationshal.
+  ✅ **Leuk:** gratis om te bekijken; de officiële foto (met bewegende sjaal) kost wel geld bij de bijbehorende winkel.
+  ⚠️ **Vermijd:** middag/weekend — dan kan de wachtrij voor de foto oplopen tot 30+ min.
+  </details>
 
 * **Middag (vanaf 15:30):** Inchecken bij het STG Hotel Oxford Street. Wandel via de gezellige winkelstraten richting **Seven Dials** en ontdek **Neal's Yard**, een kleurrijk, verscholen hofje vol boetieks en cafés.
 
@@ -74,9 +89,9 @@
   </details>
 
 * **Proeven & Ervaren:** Haal een versgebakken opgerolde pizza of empanada op Seven Dials Market.
-* **Avond:** Wandel door de bruisende steegjes van **Soho** en **Chinatown**. Eet een laagdrempelige hap bij een klassieke pub (zoals *The French House* of *The Crown & Two Chairmen*) of een Aziatisch restaurantje.
+* **Avond:** Wandel door de bruisende steegjes van **Soho** en **Chinatown**, en maak een korte tussenstop bij **Cecil Court**, het boekwinkelstraatje dat model stond voor de Wegisstraat. Eet daarna een laagdrempelige hap bij een klassieke pub (zoals *The French House* of *The Crown & Two Chairmen*) of een Aziatisch restaurantje.
 
-  <img src="fotos/soho-chinatown.jpg" width="300" alt="Chinatown Londen">
+  <img src="fotos/soho-chinatown.jpg" width="300" alt="Chinatown Londen"> <img src="fotos/cecil-court.jpg" width="300" alt="Cecil Court">
 
   <details><summary>ℹ️ Achtergrond & tips: Soho</summary>
 
@@ -94,11 +109,21 @@
   ⚠️ **Vermijd:** de grote, drukke restaurants direct aan Gerrard Street — vaak toeristenprijzen voor middelmatige kwaliteit.
   </details>
 
+  <details><summary>ℹ️ Achtergrond & tips: Cecil Court</summary>
+
+  🔗 [Wikipedia](https://en.wikipedia.org/wiki/Cecil_Court)
+  🏛️ **Historie:** Voetgangersstraatje uit de Victoriaanse tijd, sinds ruim een eeuw het domein van antiquarische boek- en prentenhandelaren.
+  🎬 **Harry Potter-feitje:** de sfeer en gevels van de boekwinkeltjes gelden als een van de inspiratiebronnen voor de Wegisstraat.
+  ✅ **Leuk:** snuffelen tussen oude drukwerken, filmposters en zeldzame eerste drukken.
+  ⚠️ **Vermijd:** verwacht geen officiële Harry Potter-winkel — het is een echte antiquarenstraat, geen themalocatie.
+  </details>
+
   📅 *Reserveren:* pubs zijn walk-in (geen reservering nodig/mogelijk); Chinatown-restaurants raden we aan rond 19:00 te bezoeken om drukte te vermijden.
 
 * 🔄 **Alternatieven:**
   * i.p.v. Chinatown-diner → **Kricket Soho** (modern Indiaas, klein en sfeervol) — [locatie](https://www.google.com/maps/search/?api=1&query=Kricket%20Soho%20London) · of **Bao Soho** (Taiwanese bao's, laagdrempelig) — [locatie](https://www.google.com/maps/search/?api=1&query=Bao%20Soho%20London)
   * i.p.v. de avondwandeling → **Big Bus London by Night Tour** (open-top bussightseeing langs verlichte iconen zoals Big Ben, Tower Bridge en Buckingham Palace, ~1 uur) — [Big Bus tickets](https://www.bigbustours.com/en/london/london-evening-tour-ticket) · opstap o.a. bij Green Park/Piccadilly, vooraf online boeken
+  * i.p.v. Platform 9¾ (lange wachtrij) → gewoon de **King's Cross-stationshal** zelf bekijken (indrukwekkende overkapping) en de foto later op een rustiger moment inhalen — [locatie](https://www.google.com/maps/search/?api=1&query=King%27s%20Cross%20Station%20London)
 * 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Seven Dials)*: 🚶 kort ~2,3 km/28 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking) — of lang ~5,4 km/68 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Seven%20Dials&destination=Seven%20Dials&waypoints=Covent%20Garden%20Piazza%7CTrafalgar%20Square%7CSouth%20Bank%20Royal%20Festival%20Hall%7CWestminster%20Bridge%7CTrafalgar%20Square%7CChinatown%20Gerrard%20Street&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
@@ -171,7 +196,7 @@
 ---
 
 <a id="dag3"></a>
-#### **Zondag 2 augustus: Historie, Beroemde Markten & Verborgen Steegjes** *(~4,5 km wandelen + metro)*
+#### **Zondag 2 augustus: Historie, Beroemde Markten & Harry Potter-sporen** *(~5 km wandelen + metro)*
 
 > 🕒 **Openingstijden:** Tower of London dagelijks 09:00-17:30 (laatste toegang 16:00, bevestigd) · Borough Market ma-wo beperkt, do-za 10:00-17:00, zo 10:00-16:00 (check voor vertrek) · Leadenhall Market ma-vr overdag, in het weekend rustiger.
 > 🍳 **Ontbijt:** *The Attendant* (Foley Street), 6 min lopen van het hotel — sfeervol ingericht in een voormalig Victoriaans openbaar toilet (~£8-12 p.p.).
@@ -184,8 +209,8 @@
 | 🚇 | Hotel → Tower of London *(Central lijn Oxford Circus→Bank, overstap Circle/District→Tower Hill)* | 6,0 km | ~20 min | [Route](https://www.google.com/maps/dir/?api=1&origin=STG%20Hotel%20Oxford%20Street%20London&destination=Tower%20of%20London&travelmode=transit) |
 | 🚶 | Tower of London → Leadenhall Market | 0,9 km | 10 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Leadenhall%20Market&travelmode=walking) |
 | 🚶 | Leadenhall Market → Borough Market *(via London Bridge)* | 1,2 km | 15 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Leadenhall%20Market&destination=Borough%20Market&travelmode=walking) |
-| 🚶 | Borough Market → St Bartholomew-the-Great *(via Millennium Bridge & Barbican)* | 2,1 km | 25 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Borough%20Market&destination=St%20Bartholomew-the-Great%20London&travelmode=walking) |
-| 🚶 | St Bartholomew-the-Great → Clerkenwell Close | 0,6 km | 5 min | [Route](https://www.google.com/maps/dir/?api=1&origin=St%20Bartholomew-the-Great%20London&destination=Clerkenwell%20Close%20London&travelmode=walking) |
+| 🚶 | Borough Market → Millennium Bridge *(via Bankside/Clink Street)* | 1,0 km | 12 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Borough%20Market&destination=Millennium%20Bridge%20London&travelmode=walking) |
+| 🚶 | Millennium Bridge → Australia House *(via St Paul's & Fleet Street)* | 1,9 km | 24 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Millennium%20Bridge%20London&destination=Australia%20House%20London&travelmode=walking) |
 
 * **Ochtend:** Bezoek de **Tower of London** (bekijk de Kroonjuwelen en de historische vesting).
 
@@ -217,37 +242,41 @@
 
   🔗 [Wikipedia](https://en.wikipedia.org/wiki/Borough_Market)
   🏛️ **Historie:** Bestaat al sinds de 12e eeuw — een van de oudste voedselmarkten van Londen.
+  🎬 **Harry Potter-feitje:** Stoney Street, aan de rand van de markt, diende als ingang van **Knochtursteeg (Knockturn Alley)** in de films.
   ✅ **Leuk:** proef bij meerdere kraampjes in plaats van één grote maaltijd, zo proef je meer variatie.
   ⚠️ **Vermijd:** zaterdagmiddag — dan is het er extreem druk; kom liever vroeg in de ochtend.
   </details>
 
-* **Namiddag:** Bekijk de **St. Bartholomew-the-Great** (de oudste kerk van Londen, verborgen in Smithfield) en het nabijgelegen rustige hofje **Clerkenwell Close**.
+* **Namiddag:** Wandel via Bankside naar de **Millennium Bridge** en steek over naar St Paul's. Vervolg via Fleet Street naar de Strand voor **Australia House**.
 
-  <img src="fotos/st-bartholomew.jpg" width="300" alt="St Bartholomew-the-Great">
+  <img src="fotos/millennium-bridge.jpg" width="300" alt="Millennium Bridge"> <img src="fotos/australia-house.jpg" width="300" alt="Australia House">
 
-  <details><summary>ℹ️ Achtergrond & tips: St Bartholomew-the-Great</summary>
+  <details><summary>ℹ️ Achtergrond & tips: Millennium Bridge</summary>
 
-  🔗 [Wikipedia](https://en.wikipedia.org/wiki/St_Bartholomew-the-Great)
-  🏛️ **Historie:** Gesticht in 1123, de oudste nog functionerende kerk van Londen; filmlocatie voor o.a. *Four Weddings and a Funeral* en *Shakespeare in Love*.
-  ✅ **Leuk:** de sfeervolle Normandische architectuur, zeldzaam bewaard gebleven in Londen.
-  ⚠️ **Vermijd:** check vooraf of er geen dienst of concert is — dan is bezichtiging beperkt.
+  🔗 [Wikipedia](https://en.wikipedia.org/wiki/Millennium_Bridge,_London)
+  🏛️ **Historie:** Geopend in 2000, moest na 2 dagen alweer dicht door een onverwacht "wiebeleffect" bij drukte; pas in 2002 heropend na aanpassingen.
+  🎬 **Harry Potter-feitje:** in de openingsscène van *Halfbloed Prins* (2009) vernietigen Dooddoeners deze brug.
+  ✅ **Leuk:** prachtig zicht op St Paul's Cathedral vanaf het midden van de brug.
+  ⚠️ **Vermijd:** niet blijven stilstaan midden op de brug voor foto's — het is een drukke doorgaande route.
   </details>
 
-  <details><summary>ℹ️ Achtergrond & tips: Clerkenwell Close</summary>
+  <details><summary>ℹ️ Achtergrond & tips: Australia House</summary>
 
-  🔗 [Wikipedia](https://en.wikipedia.org/wiki/Clerkenwell)
-  🏛️ **Historie:** Middeleeuwse wijk, vernoemd naar de "Clerks' Well" — een put waar geestelijken ooit mysteriespelen opvoerden.
-  ✅ **Leuk:** rustige, groene hoek weg van de drukte om even te zitten.
-  ⚠️ **Vermijd:** hier winkels/horeca verwachten — het is vooral een woonbuurt.
+  🔗 [Wikipedia](https://en.wikipedia.org/wiki/Australia_House)
+  🏛️ **Historie:** Geopend in 1918, het oudste nog in gebruik zijnde Australische diplomatieke gebouw ter wereld.
+  🎬 **Harry Potter-feitje:** de marmeren Exhibition Hall diende als interieur van **Gringotts Bank** in *Harry Potter en de Steen der Wijzen* (2001).
+  ✅ **Leuk:** bewonder de indrukwekkende marmeren hal en gouden details vanaf de ingang/straat.
+  ⚠️ **Vermijd:** geen museum — binnen is alleen toegankelijk voor officiële zaken, niet zomaar vrij te bezichtigen.
   </details>
 
-* **Avond:** Informeel diner met de groep bij een historisch eethuis of gastro-pub (bijv. *The Anchor Bankside* aan het water).
+* **Avond:** Informeel diner met de groep bij een historische pub vlak bij Australia House, zoals *The Coal Hole* (Victoriaanse pub naast het Savoy Theatre aan de Strand).
 
-  📅 *Reserveren:* [The Anchor Bankside](https://www.taylor-walk.co.uk/pub-details/9484/the-anchor-bankside) — reserveer vooraf voor een tafel met theemszicht, zeker in het weekend.
+  📅 *Reserveren:* [The Coal Hole](https://www.nicholsonspubs.co.uk/restaurants) (Nicholson's) is walk-in, geen reservering nodig/mogelijk voor kleine groepen — kom bij voorkeur vóór 19:00 voor voldoende zitplaatsen.
 
 * 🔄 **Alternatieven:**
   * i.p.v. Tower of London (indien uitverkocht) → **Tower Bridge Exhibition** (glazen vloer + machinekamers, los te boeken) — [locatie](https://www.google.com/maps/search/?api=1&query=Tower%20Bridge%20Exhibition%20London); buiten bekijken is ook gratis
   * i.p.v. Borough Market (te druk) → **Leadenhall Market** — [locatie](https://www.google.com/maps/search/?api=1&query=Leadenhall%20Market%20London), heeft ook horeca en is rustiger
+  * i.p.v. Australia House (interieur niet altijd te bezichtigen) → **Somerset House** (vlakbij, binnenplaats vrij toegankelijk, geen Harry Potter-link maar wel indrukwekkende architectuur) — [locatie](https://www.google.com/maps/search/?api=1&query=Somerset%20House%20London)
   * i.p.v. de metro terug → **Boottocht met Uber Boat by Thames Clippers** vanaf Tower Pier naar Westminster Pier, ~20 min, leuke afsluiter met zicht op Tower Bridge en de Theemsoever — [tickets & tijden](https://www.thamesclippers.com) · [locatie Tower Pier](https://www.google.com/maps/search/?api=1&query=Tower%20Pier%20London)
 * 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Tower of London)*: 🚶 kort ~3,2 km/40 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London&travelmode=walking) — of lang ~5,6 km/70 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Tower%20of%20London&destination=Tower%20of%20London&waypoints=Tower%20Bridge%7CBorough%20Market%20London%7CMillennium%20Bridge%20London%7CSt%20Paul%27s%20Cathedral%20London%7CLeadenhall%20Market%20London&travelmode=walking)
 
@@ -430,7 +459,8 @@
 | **Wallace Collection** | Algemene toegang | **Gratis** | Vrije inloop (geen ticket nodig). |
 | **Westminster Abbey (Buitenzijde)** | N.v.t. | **Gratis** | Prachtig vanaf het plein te bewonderen zonder ticket. *(Binnenbezoek kost ca. £29 p.p. indien gewenst)* |
 | **Borough Market & Markten** | Vrije toegang | Afhankelijk van consumptie | Reken op ca. £15 - £25 p.p. voor het proeven van diverse kleine gerechten en hapjes op de markt. |
-| **Openbaar vervoer (metro/bus)** | Contactless dagcap | ~£8,50 p.p. per dag (max.) | Alleen nodig op dag 3 (Tower) en dag 6 (vertrek) — overige dagen volledig te voet. |
+| **Phantom of the Opera** (His Majesty's Theatre) | Theaterticket | ~£40 - £150 | **Ruim vooraf online boeken** via [thephantomoftheopera.com/london](https://www.thephantomoftheopera.com/london) — augustus is hoogseizoen, vaak snel uitverkocht. |
+| **Openbaar vervoer (metro/bus)** | Contactless dagcap | ~£8,50 p.p. per dag (max.) | Nodig op dag 1 (Platform 9¾→hotel), dag 2 (Tate Modern→theater), dag 3 (Tower) en dag 6 (vertrek) — overige dagen volledig te voet. |
 
 <a id="tips"></a>
 ### 💡 Extra Tips voor Waarde & Gemak
