@@ -13,7 +13,7 @@
 * [Zaterdag 1 augustus — Highlights & Reuzenrad](#dag2)
 * [Zondag 2 augustus — Tower & Markten](#dag3)
 * [Maandag 3 augustus — Musea & Covent Garden](#dag4)
-* [Dinsdag 4 augustus — Parken & Mayfair](#dag5)
+* [Dinsdag 4 augustus — Parken & Notting Hill](#dag5)
 * [Woensdag 5 augustus — Afsluiting & Vertrek](#dag6)
 * [🎟️ Ticketgids & Kosten](#tickets)
 * [💡 Extra Tips](#tips)
@@ -338,21 +338,26 @@
 ---
 
 <a id="dag5"></a>
-#### **Dinsdag 4 augustus: Koninklijke Parken & Charmante Wijken** *(~5 km wandelen)*
+#### **Dinsdag 4 augustus: Koninklijke Parken & Notting Hill** *(~8 km wandelen + metro)*
 
-> 🕒 **Openingstijden:** Wallace Collection dagelijks 10:00-17:00 (gratis, check voor vertrek) · Buckingham Palace alleen buitenkant te bezichtigen (geen tijdslot nodig).
+> 🕒 **Openingstijden:** Buckingham Palace alleen buitenkant te bezichtigen (geen tijdslot nodig) · Portobello Road: winkels/eetstalletjes dagelijks open, de grote **antiekmarkt is alleen op zaterdag** (dinsdag dus rustiger, wel gewoon sfeervol).
 > 🍳 **Ontbijt:** *Fernandez & Wells* (Marylebone Lane), 12 min lopen van het hotel — Spaans-geïnspireerd ontbijt, populair bij locals (~£8-11 p.p.).
-> ☔ **Bij regen:** Wallace Collection (gratis, overdekt) naar voren halen in het programma; St James's Park/Mayfair-wandeling later op de dag doen als het opklaart.
+> ☔ **Bij regen:** de overdekte antiekhallen aan Portobello Road (bijv. *Admiral Vernon Arcade*) bieden beschutting; bij aanhoudende regen is de **Wallace Collection** (gratis, overdekt, vlak bij Bond Street) een prima alternatief voor de hele middag.
 
-🗺️ **Route** *(volledig te voet)*
+🗺️ **Route** *(te voet naar Bond Street, dan met de metro naar Notting Hill)*
 
 | | Van → Naar | Afstand | Tijd | Kaart |
 |---|---|---|---|---|
 | 🚶 | Hotel → St James's Park | 1,9 km | 25 min | [Route](https://www.google.com/maps/dir/?api=1&origin=STG%20Hotel%20Oxford%20Street%20London&destination=St%20James%27s%20Park%20London&travelmode=walking) |
 | 🚶 | St James's Park → Buckingham Palace | 0,7 km | 10 min | [Route](https://www.google.com/maps/dir/?api=1&origin=St%20James%27s%20Park%20London&destination=Buckingham%20Palace&travelmode=walking) |
-| 🚶 | Buckingham Palace → Wallace Collection *(door Mayfair; alt. 🚌 bus richting Marylebone)* | 2,5 km | 30 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Buckingham%20Palace&destination=Wallace%20Collection%20London&travelmode=walking) |
+| 🚶 | Buckingham Palace → Bond Street Station *(door Mayfair, langs Grays Antiques)* | 2,2 km | 28 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Buckingham%20Palace&destination=Bond%20Street%20Station%20London&travelmode=walking) |
+| 🚇 | Bond Street → Notting Hill Gate *(Central-lijn, rechtstreeks, geen overstap)* | 6,3 km | 9 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Bond%20Street%20Station%20London&destination=Notting%20Hill%20Gate%20Station%20London&travelmode=transit) |
+| 🚶 | Notting Hill Gate → Portobello Road Market | 0,5 km | 7 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Notting%20Hill%20Gate%20Station%20London&destination=Portobello%20Road%20Market%20London&travelmode=walking) |
+| 🚶 | Portobello Road Market → Golborne Road *(door de markt, langs de kleurrijke huizen bij Lancaster Road)* | 1,3 km | 17 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Portobello%20Road%20Market%20London&destination=Golborne%20Road%20London&travelmode=walking) |
+| 🚶 | Golborne Road → Notting Hill Gate *(via Westbourne Grove)* | 1,3 km | 17 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Golborne%20Road%20London&destination=Notting%20Hill%20Gate%20Station%20London&travelmode=walking) |
+| 🚇 | Notting Hill Gate → Hotel *(Central-lijn, rechtstreeks naar Oxford Circus)* | 6,7 km | 13 min | [Route](https://www.google.com/maps/dir/?api=1&origin=Notting%20Hill%20Gate%20Station%20London&destination=STG%20Hotel%20Oxford%20Street%20London&travelmode=transit) |
 
-* **Ochtend:** Wandel door **St. James's Park** richting **Buckingham Palace**. Ontdek de rustige historische wijk **Mayfair** en de verborgen passage *Grays Antiques*.
+* **Ochtend:** Wandel door **St. James's Park** richting **Buckingham Palace**. Ontdek de rustige historische wijk **Mayfair** en de verborgen passage *Grays Antiques* op weg naar Bond Street.
 
   <img src="fotos/st-james-park.jpg" width="300" alt="St James's Park"> <img src="fotos/buckingham-palace.jpg" width="300" alt="Buckingham Palace">
 
@@ -372,28 +377,38 @@
   ⚠️ **Vermijd:** vlak voor de wisseling van de wacht aankomen — sta minstens 45 min van tevoren vooraan.
   </details>
 
-* **Middag:** Bezoek het indrukwekkende **Wallace Collection** museum (een gratis toegankelijk herenhuis vol kunst en harnassen) of ontdek de boetiekstraatjes van **Marylebone High Street**.
+* **Middag: Notting Hill & Portobello Road.** Pak vanaf Bond Street de metro rechtstreeks naar Notting Hill Gate. Wandel door de kleurrijke, pastelkleurige straatjes (o.a. Lancaster Road en Elgin Crescent) naar de beroemde **Portobello Road Market** en eindig bij het minder toeristische **Golborne Road**, bekend om zijn Portugese en Marokkaanse sfeer.
 
-  🍽️ *Lunch:* **Ginger & White** of **La Fromagerie** (Marylebone High Street) — gezellige buurtcafés, ~£12-16 p.p.
+  🍽️ *Lunch:* een Portugese *pastel de nata* en broodje bij **Lisboa Patisserie** (Golborne Road) of streetfood op Portobello Road Market, ~£8-14 p.p.
 
-  <img src="fotos/wallace-collection.jpg" width="300" alt="Wallace Collection">
+  <img src="fotos/notting-hill-houses.jpg" width="300" alt="Kleurrijke huizen Notting Hill"> <img src="fotos/portobello-road-market.jpg" width="300" alt="Portobello Road Market">
 
-  <details><summary>ℹ️ Achtergrond & tips: Wallace Collection</summary>
+  <details><summary>ℹ️ Achtergrond & tips: Notting Hill & Portobello Road</summary>
 
-  🔗 [Wikipedia](https://en.wikipedia.org/wiki/Wallace_Collection)
-  🏛️ **Historie:** Privécollectie van de familie Hertford-Wallace, in 1897 aan de natie nagelaten onder voorwaarde dat niets ooit wordt uitgeleend of toegevoegd.
-  ✅ **Leuk:** indrukwekkende wapen- en harnascollectie, favoriet bij kinderen.
-  ⚠️ **Vermijd:** flitsfotografie bij de schilderijen — schadelijk voor de doeken.
+  🔗 [Wikipedia](https://en.wikipedia.org/wiki/Portobello_Road)
+  🏛️ **Historie:** Portobello Road Market bestaat sinds de 19e eeuw, aanvankelijk een gewone buurtmarkt; de wijk werd vanaf de jaren '50 het hart van de Caribische gemeenschap (zie ook Notting Hill Carnival).
+  🎬 **Filmfeitje:** decor van de romantische komedie *Notting Hill* (1999, met Hugh Grant en Julia Roberts); de beroemde blauwe voordeur staat aan Portobello Road, maar is een privéwoning — bekijk hem rustig van een afstand.
+  ✅ **Leuk:** de pastelkleurige rijtjeshuizen aan Lancaster Road en Elgin Crescent fotograferen, en snuffelen tussen antiek- en vintagekraampjes.
+  ⚠️ **Vermijd:** verwacht op dinsdag geen antiekmarkt — dat is alleen op zaterdag; wel gewoon winkels en eetkraampjes open.
   </details>
 
-* **Avond:** Groepsdiner bij een gezellige Italiaan of traditionele pub met *Sunday Roast* (bijv. *The Grazing Goat* in Marylebone).
+  <details><summary>ℹ️ Achtergrond & tips: Golborne Road</summary>
+
+  🔗 [Wikipedia](https://en.wikipedia.org/wiki/North_Kensington)
+  🏛️ **Historie:** Van oudsher een Portugese en Marokkaanse buurt aan het noordeinde van Portobello Road, in de schaduw van de iconische Trellick Tower.
+  ✅ **Leuk:** authentieke Portugese banketbakkerijen en Marokkaanse kruidenwinkels, veel rustiger en minder toeristisch dan Portobello Road zelf.
+  ⚠️ **Vermijd:** verwacht geen toeristische marktkraampjes zoals bij Portobello — dit is een echte, alledaagse buurtmarkt.
+  </details>
+
+* **Avond:** Groepsdiner bij een gezellige Italiaan of traditionele pub met *Sunday Roast* (bijv. *The Grazing Goat* in Marylebone, dicht bij het hotel na de metro terug).
 
   📅 *Reserveren:* [The Grazing Goat](https://www.cubitthouse.co.uk/the-grazing-goat-boutique-hotel-marylebone/) — reserveer online vooraf, vooral in het weekend erg gewild.
 
 * 🔄 **Alternatieven:**
-  * i.p.v. Wallace Collection → **Sherlock Holmes Museum** (Baker Street, klein, leuk voor kinderen, wel entree) — [locatie](https://www.google.com/maps/search/?api=1&query=Sherlock%20Holmes%20Museum%20London)
-  * i.p.v. Mayfair-wandeling → **Hyde Park / Kensington Gardens** — [locatie](https://www.google.com/maps/search/?api=1&query=Hyde%20Park%20London), groter park met o.a. het Diana Memorial Playground
-* 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Wallace Collection)*: 🚶 kort ~1,9 km/24 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Wallace%20Collection%20London&destination=Wallace%20Collection%20London&waypoints=Marylebone%20High%20Street%20London%7CBaker%20Street%20Station%20London&travelmode=walking) — of lang ~3,5 km/44 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Wallace%20Collection%20London&destination=Wallace%20Collection%20London&waypoints=Marylebone%20High%20Street%20London%7CBaker%20Street%20Station%20London%7CRegent%27s%20Park%20Boating%20Lake%20London&travelmode=walking)
+  * i.p.v. Golborne Road (voor wie moe is) → loop direct terug naar Notting Hill Gate en neem de tijd voor **Ladbroke Square Garden** in plaats van het verdere stuk Portobello Road — [locatie](https://www.google.com/maps/search/?api=1&query=Ladbroke%20Square%20Garden%20London)
+  * i.p.v. Notting Hill (bij regen of weinig tijd) → **Hyde Park / Kensington Gardens**, dichter bij het centrum — [locatie](https://www.google.com/maps/search/?api=1&query=Hyde%20Park%20London), met o.a. het Diana Memorial Playground
+  * i.p.v. Portobello Road Market → **Wallace Collection** (gratis, overdekt, dichtbij Bond Street) als rustiger cultuuralternatief — [locatie](https://www.google.com/maps/search/?api=1&query=Wallace%20Collection%20London)
+* 🥾 **Optionele wandellus** *(zelfde start-/eindpunt: Notting Hill Gate)*: 🚶 kort ~2,0 km/25 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Notting%20Hill%20Gate%20Station%20London&destination=Notting%20Hill%20Gate%20Station%20London&waypoints=Portobello%20Road%20Market%20London%7CLancaster%20Road%20London&travelmode=walking) — of lang ~4,2 km/53 min · [Route](https://www.google.com/maps/dir/?api=1&origin=Notting%20Hill%20Gate%20Station%20London&destination=Notting%20Hill%20Gate%20Station%20London&waypoints=Portobello%20Road%20Market%20London%7CLancaster%20Road%20London%7CGolborne%20Road%20London%7CLadbroke%20Square%20Garden%20London&travelmode=walking)
 
 [⬆️ Terug naar boven](#top)
 
@@ -460,7 +475,7 @@
 | **Westminster Abbey (Buitenzijde)** | N.v.t. | **Gratis** | Prachtig vanaf het plein te bewonderen zonder ticket. *(Binnenbezoek kost ca. £29 p.p. indien gewenst)* |
 | **Borough Market & Markten** | Vrije toegang | Afhankelijk van consumptie | Reken op ca. £15 - £25 p.p. voor het proeven van diverse kleine gerechten en hapjes op de markt. |
 | **Phantom of the Opera** (His Majesty's Theatre) | Theaterticket | ~£40 - £150 | **Ruim vooraf online boeken** via [thephantomoftheopera.com/london](https://www.thephantomoftheopera.com/london) — augustus is hoogseizoen, vaak snel uitverkocht. |
-| **Openbaar vervoer (metro/bus)** | Contactless dagcap | ~£8,50 p.p. per dag (max.) | Nodig op dag 1 (Platform 9¾→hotel), dag 2 (Tate Modern→theater), dag 3 (Tower) en dag 6 (vertrek) — overige dagen volledig te voet. |
+| **Openbaar vervoer (metro/bus)** | Contactless dagcap | ~£8,50 p.p. per dag (max.) | Nodig op dag 1 (Platform 9¾→hotel), dag 2 (Tate Modern→theater), dag 3 (Tower), dag 5 (Notting Hill) en dag 6 (vertrek) — overige dagen volledig te voet. |
 
 <a id="tips"></a>
 ### 💡 Extra Tips voor Waarde & Gemak
